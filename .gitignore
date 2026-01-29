@@ -1,0 +1,52 @@
+# Environment files with secrets
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Sensitive deployment files
+FINAL_DEPLOYMENT_PLAN.md
+DEPLOYMENT_PLAN.md
+*_keypair.json
+*.keypair
+devnet_test_mint.json
+
+# Runtime state
+*_checkpoint.json
+
+# Intermediate working files
+airdrop_list.csv
+airdrop_list_v2.csv
+96nbr_airdrop_final.csv
+96nbr_human_holders.csv
+remaining_candidates.txt
+
+# Log files
+*.log
+
+# Binaries and tools
+metaboss
+
+# Local tools and dependencies
+lp_scripts/
+meteora-invent/
+node_modules/
