@@ -39,8 +39,8 @@ Wallets holding both tokens received both allocations.
 | Pool Address | `4qqBAWTbHd5st8gS5e4ifnsv2ECjLSnyLLG5Bd5Pdptg` |
 | GRU Deposited | 40,000,000 |
 | SOL Deposited | ~85 SOL (~$10,500) |
-| LP Status | Permanently locked |
-| Mint Authority | Burned |
+| LP Status | [Permanently locked](https://solscan.io/tx/4xKDEzqg18H82968hmk2DcGzvY8axRpQDzm872P8Gn4pyrgT7mGw1BxGQE3cY7fFRtkojAv1WbVEdAn9aBwibRXv) |
+| Mint Authority | [Burned](https://solscan.io/tx/4GCcS91MYL1erGb5JqiZT9zGVWUQNzxZgG2fCbx85p1hVUJJhwbhdougoVq2S6WjTX6mqidcvzHhk9XnQf6LzD5z) |
 | Remaining Supply | Burned |
 
 ## Airdrop Summary
