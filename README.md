@@ -28,7 +28,7 @@ Wallets holding both tokens received both allocations.
 | Symbol | GRU |
 | Mint | [`S782cLXpcS5agE3T6g7ADZ8LkmQsiDMKd7S2GzfGapp`](https://solscan.io/token/S782cLXpcS5agE3T6g7ADZ8LkmQsiDMKd7S2GzfGapp) |
 | Decimals | 6 |
-| Total Supply | 1,088,861,984 GRU |
+| Total Supply | 1,035,378,909 GRU (after burn) |
 | Metadata | [meat.apps.fun](https://meat.apps.fun/tokens/S782cLXpcS5agE3T6g7ADZ8LkmQsiDMKd7S2GzfGapp.json) |
 
 ## Liquidity
@@ -72,7 +72,8 @@ The initial filtering logic incorrectly classified some holders as pool accounts
 | Airdrop (1,602 wallets) | 948,059,138 |
 | Remediation (6 wallets) | 32,561,929 |
 | Liquidity Pool | 40,000,000 |
-| Burned | Remaining supply |
+| Burned | 53,483,075 |
+| **Circulating Supply** | **1,035,378,909** |
 
 ## Snapshot
 
